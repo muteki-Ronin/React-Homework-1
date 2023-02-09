@@ -1,0 +1,10 @@
+.main {
+  min-height: calc(100vh - 64px - 70px);
+  padding: 1.5rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  color: rgb(228, 25, 66);
+}
